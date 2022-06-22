@@ -17,7 +17,6 @@ const IndexComponent = ({ name, url }) => {
     return urlSplit[urlSplit.length - 2]
   }
 
-
   return (
     <Col className='pokemon-card' md='3' lg='2'>
       <Link to={`/pokemons/${name}`}>

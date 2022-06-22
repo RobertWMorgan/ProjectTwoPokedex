@@ -51,10 +51,8 @@ const PokemonIndex = () => {
       <Container className='pokemon-list'>
         <Row>
           {handleFilter().map((pokemon, index) => {
-            //! destructured name?
-            const { name } = pokemon
+            // const { name } = pokemon
             return (
-              //! how does the spreading work?
               <IndexComponent key={index} {
                 ...pokemon
               }/>
