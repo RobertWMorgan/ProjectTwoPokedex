@@ -32,12 +32,6 @@ As we didn't have the most time we decided to keep the main deliverables simple;
 
 I mainly worked on the detailed information page and helped out with the overview page when needed.
 
-### Win/Loss
-
-- This was the first time I had ever used an external API and seeing how different information was structured and accessing them was both challenging and rewarding when working. The API was quite cluttered with the amount of information and had a lot of nested information which made accessing different information really tricky and require a lot of if statements. 
-
-- The accordion on the detailed page wasn't styled very well. Bootstrap components seem to override styling in a lot of cases and I haven't quite figured out how to integrate different components seemlessly.
-
 ### Key Learnings
 
 - Learned how to access APIs on the frontend
